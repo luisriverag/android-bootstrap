@@ -1,4 +1,4 @@
-This is a test based on [slymax/webview](https://github.com/slymax/webview) and [Bootstrap 3.3.6](https://getbootstrap.com/)
+Test based on [slymax/webview](https://github.com/slymax/webview) and [Bootstrap 3.3.6](https://getbootstrap.com/)
 
 You might want to update 
 
